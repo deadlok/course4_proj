@@ -50,6 +50,7 @@ class Dev(Configuration):
         'django.contrib.staticfiles',
         'movies',
         'omdb',
+        'gh',
     ]
 
     MIDDLEWARE = [
